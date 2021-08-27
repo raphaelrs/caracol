@@ -1,0 +1,15 @@
+d:\users\t072911934\documents\visual studio 2010\Projects\MatrizCaracol\MatrizCaracol\bin\Debug\MatrizCaracol.exe
+d:\users\t072911934\documents\visual studio 2010\Projects\MatrizCaracol\MatrizCaracol\bin\Debug\MatrizCaracol.pdb
+d:\users\t072911934\documents\visual studio 2010\Projects\MatrizCaracol\MatrizCaracol\obj\x86\Debug\MatrizCaracol.exe
+d:\users\t072911934\documents\visual studio 2010\Projects\MatrizCaracol\MatrizCaracol\obj\x86\Debug\MatrizCaracol.pdb
+C:\Users\rribeiro\Downloads\Matriz-em-Caracol-master\Matriz-em-Caracol-master\MatrizCaracol\MatrizCaracol\bin\Debug\MatrizCaracol.exe
+C:\Users\rribeiro\Downloads\Matriz-em-Caracol-master\Matriz-em-Caracol-master\MatrizCaracol\MatrizCaracol\bin\Debug\MatrizCaracol.pdb
+C:\Users\rribeiro\Downloads\Matriz-em-Caracol-master\Matriz-em-Caracol-master\MatrizCaracol\MatrizCaracol\obj\x86\Debug\MatrizCaracol.csprojResolveAssemblyReference.cache
+C:\Users\rribeiro\Downloads\Matriz-em-Caracol-master\Matriz-em-Caracol-master\MatrizCaracol\MatrizCaracol\obj\x86\Debug\MatrizCaracol.exe
+C:\Users\rribeiro\Downloads\Matriz-em-Caracol-master\Matriz-em-Caracol-master\MatrizCaracol\MatrizCaracol\obj\x86\Debug\MatrizCaracol.pdb
+C:\Users\Pichau\Downloads\Programass\ProjetosRaphael\Matriz-em-Caracol-master\Matriz-em-Caracol-master\MatrizCaracol\MatrizCaracol\bin\Debug\MatrizCaracol.exe
+C:\Users\Pichau\Downloads\Programass\ProjetosRaphael\Matriz-em-Caracol-master\Matriz-em-Caracol-master\MatrizCaracol\MatrizCaracol\bin\Debug\MatrizCaracol.pdb
+C:\Users\Pichau\Downloads\Programass\ProjetosRaphael\Matriz-em-Caracol-master\Matriz-em-Caracol-master\MatrizCaracol\MatrizCaracol\obj\x86\Debug\MatrizCaracol.csproj.AssemblyReference.cache
+C:\Users\Pichau\Downloads\Programass\ProjetosRaphael\Matriz-em-Caracol-master\Matriz-em-Caracol-master\MatrizCaracol\MatrizCaracol\obj\x86\Debug\MatrizCaracol.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Downloads\Programass\ProjetosRaphael\Matriz-em-Caracol-master\Matriz-em-Caracol-master\MatrizCaracol\MatrizCaracol\obj\x86\Debug\MatrizCaracol.exe
+C:\Users\Pichau\Downloads\Programass\ProjetosRaphael\Matriz-em-Caracol-master\Matriz-em-Caracol-master\MatrizCaracol\MatrizCaracol\obj\x86\Debug\MatrizCaracol.pdb
